@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J2","conn","PM254-2-04-S-8.5",37.715500,-28.968500,0.000000,bottom
+"J3","Conn_Coaxial","SMA_Amphenol_132289_EdgeMount",24.042000,-2.819400,90.000000,bottom
+"U4","~","E70-433MT14S",19.042000,-14.921000,-90.000000,bottom

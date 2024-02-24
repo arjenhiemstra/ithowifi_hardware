@@ -1,0 +1,4 @@
+Ref;Val;Package;PosX;PosY;Rot;Side
+J2;conn;PinSocket_2x04_P2.54mm_Vertical;38,989;-32,766;0;bottom
+J3;Conn_Coaxial;SMA_Amphenol_132289_EdgeMount;24,042;-2,8194;90;bottom
+U4;E07-900MM10S;10x10m;19,042;-14,921;-90;bottom

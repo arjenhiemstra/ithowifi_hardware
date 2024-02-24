@@ -1,0 +1,4 @@
+Ref;Val;Package;PosX;PosY;Rot;Side
+J2;conn;PM254-2-04-S-8.5;37,7155;-28,9685;0;bottom
+J3;Conn_Coaxial;SMA_Amphenol_132289_EdgeMount;24,042;-2,8194;90;bottom
+U4;~;E70-433MT14S;19,042;-14,921;-90;bottom

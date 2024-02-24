@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nrg_watch")(type "KiCad")(uri "${PROJECT}/kiCad libs/nrg_watch.pretty")(options "")(descr ""))
+)
